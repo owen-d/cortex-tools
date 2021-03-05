@@ -7,6 +7,7 @@ require (
 	cloud.google.com/go/storage v1.10.0
 	github.com/alecthomas/chroma v0.7.0
 	github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1 // indirect
+	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
 	github.com/cortexproject/cortex v1.4.1-0.20201022071705-85942c5703cf
 	github.com/dlclark/regexp2 v1.2.0 // indirect
 	github.com/go-kit/kit v0.10.0
@@ -24,6 +25,7 @@ require (
 	github.com/gorilla/mux v1.7.3
 	github.com/grafana/loki v1.6.2-0.20201117140412-14a5fda15b07
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
+	github.com/nouney/randomstring v0.0.0-20180330205616-1374daa59f01
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/alertmanager v0.21.1-0.20200911160112-1fdff6b3f939
@@ -32,6 +34,7 @@ require (
 	github.com/prometheus/prometheus v1.8.2-0.20201014093524-73e2ce1bd643
 	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.6.1
+	github.com/thanos-io/thanos v0.13.1-0.20201019130456-f41940581d9a
 	github.com/weaveworks/common v0.0.0-20200914083218-61ffdd448099
 	go.uber.org/atomic v1.7.0
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
